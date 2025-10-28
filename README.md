@@ -15,3 +15,4 @@ The **Calories Burnt Prediction** app, built with Streamlit, estimates calories 
 1. **Load Model:** Uses joblib to load the pre-trained XGBoost model.
 2. **Preprocess Data:** Converts user input into a model-compatible format.
 3. **Predict & Display:** Shows the estimated calories burnt.
+<img width="914" height="775" alt="Screenshot_3" src="https://github.com/user-attachments/assets/2fbf0b5b-adbc-4f87-aacc-42f492aaf0f1" />
